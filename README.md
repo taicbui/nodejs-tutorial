@@ -1,5 +1,3 @@
-Of course, here is the content in Markdown format:
-
 # Node.js/Express.js/PostgreSQL/JWT Authentication Tutorial
 
 This project is a tutorial teaching the basics of building a secure authentication system using Node.js, Express.js, PostgreSQL, and JSON Web Tokens (JWT).
