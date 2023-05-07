@@ -6,7 +6,7 @@ This project is a tutorial teaching the basics of building a secure authenticati
 
 ## Installation and Setup
 
-Before you can run the server, you'll need to set up a PostgreSQL database and set the necessary environment variables. Here's how to do it:
+Before you can run the server, you'll need to set up a PostgreSQL database and set the necessary environment variables. Here is how to do it:
 
 1. Install PostgreSQL if you haven't already. You can download it from the official website [here](https://www.postgresql.org/download/).
 
